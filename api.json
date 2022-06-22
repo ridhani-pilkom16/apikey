@@ -1,4 +1,6 @@
 [
-    "localhost",
-    "rsud.test",
+    {
+        "localhost",
+        "rsud.test",
+    }
 ]
